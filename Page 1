@@ -1,0 +1,30 @@
+<html> 
+<title>Personal Informations</title> 
+<body>
+Name:Anika khaer<br>
+ID:011192082<br>
+Home District: Kishorgan, Mymensingh<br>
+<u>Academic History</u><br>
+
+ <tr>
+    <th>Institution Name </th>
+    <th>Board Exam</th>
+    <th>Board</th>
+    <th>Year</th>
+    <th>Grade</th>
+  </tr>
+  <tr>
+    <td>Viqarunnisa Noon School and College  </td>
+    <td>S.S.C</td>
+    <td>DHA</td>
+    <td>2016</td>
+    <td>5.00</td>
+  </tr>
+  <tr>
+    <td>Viqarunnisa Noon School and College   </td>
+    <td>HSC</td>
+    <td>DHA</td>
+    <td>2018</td>
+    <td>5.00</td>
+  </tr>
+</table>
